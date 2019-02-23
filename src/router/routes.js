@@ -5,7 +5,7 @@ import Mine from "@/pages/Mine.vue"
 import Tabbar from "@/components/Tabbar.vue"
 import AppHeader from "@/components/AppHeader.vue"
 import Detail from "@/pages/Detail.vue"
-import CategoryList from "@/pages/Categorylist.vue"
+import CategoryList from "@/pages/CategoryList.vue"
 import ProductList from "@/pages/ProductList.vue"
 import Login from "@/pages/Login.vue"
 
